@@ -16,3 +16,12 @@ In Udacity's Full Stack Developer bootcamp I completed the following projects so
 5. Parallel Web Crawler
 6. SuperDuperDrive
 7. Critter Chronologer
+
+## Tech Stack
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Python
+- Java
+- Spring Boot
