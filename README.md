@@ -9,11 +9,12 @@ In Udacity's Full Stack Developer bootcamp I completed the following projects so
 2. **Financial Literacy Game**: using Python, I created a game that explains the mortgage application process that banks use to assess an individual's application for a home loan. 
     - Requirements: 
       - Descriptions are printed to the console for the player to see.
-      - The time.sleep function is used to create delays between messages so that they aren't all printed at once.
-      - The input function is used to ask the player what they would like to do. The player's choices affect what happens in the game.
+      - The `time.sleep` function is used to create delays between messages so that they aren't all printed at once.
+      - The `random.choice` or `random.randint` function is used to influence the game so that each game is different in some way.
+      - The `input` function is used to ask the player what they would like to do. The player's choices affect what happens in the game.
       - If the player enters a choice that is not valid, the game gives them the chance to retry until they enter a valid option. The game does not crash and does not treat invalid input as a valid choice.
       - The code includes at least four function definitions that are used to improve the code in some way, such as by: (i) Reducing repetition, (ii) Reducing complexity, (iii) Improving the readability or organization of the code
-      - The pycodestyle tool reports zero errors and zero warnings.
+      - The `pycodestyle` tool reports zero errors and zero warnings.
       - The program is a playable game, and runs from start to finish without crashing or displaying errors.
 
 <br>
