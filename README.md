@@ -6,11 +6,12 @@ I am currently enrolled (as of October 19, 2022) in [Udacity](https://www.udacit
 
 In Udacity's Full Stack Developer bootcamp I completed the following projects so far:
 1. **[Animal Trading Card](https://github.com/Shailean/portfolio/tree/main/animal-trading-card)**: using HTML, CSS, and a design prototype I was asked to show understanding of how to utilize classes in HTML in order to apply styling to elements in CSS. This project showcases my ability to utilize proper syntax to create a visually appealing design.
+2. Adventure Game: using Python, I created a game that explains the mortgage application process that banks use to assess an individual's application for a home loan. 
+
 <br>
 
 **Upcoming Projects**
 
-2. Adventure Game
 3. Pixel Art Maker
 4. Hotel Reservation Application
 5. Parallel Web Crawler
